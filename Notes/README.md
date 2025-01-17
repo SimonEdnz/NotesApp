@@ -2,8 +2,6 @@ Notes Project Using Spring Boot And React
 ===============================
 
 This is a simple web application that allows users to create and manage their notes. It is built using Spring Boot as the backend and React as the frontend.
-<a href="https://hits.sh/github.com/vivekkakadiya/Notes-using-Spring-Boot"><img alt="Hits" src="https://hits.sh/github.com/vivekkakadiya/Notes-using-Spring-Boot.svg?label=Viewer%20Count&color=355C7D&labelColor=4083e9"/></a>
-
 Getting Started
 ---------------
 
@@ -13,17 +11,11 @@ Getting Started
 -   Node.js and npm
 -   MySQL
 
-## Demo
-
-https://user-images.githubusercontent.com/84114759/225833545-56d450a9-723a-4777-ace9-126e8b0732f3.mp4
-
-
-
 
 ### Installation
 
 1.  Clone the repository:
-
+        https://github.com/SimonEdnz/NotesApp.git
 2.  Configure the database:
 
     Create a new MySQL database and update the configuration in `src/main/resources/application.properties`:
