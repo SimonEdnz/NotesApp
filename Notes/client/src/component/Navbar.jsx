@@ -34,26 +34,6 @@ export const Navbar = () => {
           <a
             href="/"
             className="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
-            id="note-business"
-          >
-            <i className="icon-briefcase m-1" />
-            <span className="d-none d-md-block">Business</span>
-          </a>
-        </li>
-        <li className="nav-item">
-          <a
-            href="/"
-            className="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
-            id="note-social"
-          >
-            <i className="icon-share-alt m-1" />
-            <span className="d-none d-md-block">Social</span>
-          </a>
-        </li>
-        <li className="nav-item">
-          <a
-            href="/"
-            className="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
             id="note-important"
           >
             <i className="icon-tag m-1" />

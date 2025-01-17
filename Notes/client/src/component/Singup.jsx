@@ -145,27 +145,7 @@ export const Singup = ({show2,handleClose2}) => {
                {login ? "Login" : "SingUp"}
 
           </button>
-          {/* <div className="d-flex justify-content-between">
-            <div
-              className="form-check form-check-inline"
-              id="form-check-rememberMe"
-            >
-              <input
-                className="form-check-input"
-                type="checkbox"
-                id="formCheck-1"
-                htmlFor="remember"
-                style={{ cursor: "pointer" }}
-                name="check"
-              />
-              <label className="form-check-label" htmlFor="formCheck-1">
-                <span className="label-text">Remember Me</span>
-              </label>
-            </div>
-            <a id="forgot-password-link" href="#">
-              Forgot Password?
-            </a>
-          </div> */}
+    
         </div>
         <div
           id="login-box-footer"
